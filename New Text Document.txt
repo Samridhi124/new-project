@@ -1,0 +1,21 @@
+<html>
+<head>
+        <title>Portfolio Website- Easy Tutorials</title>
+                 <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="hero">
+<nav>
+<img src="images/logo.png" class="Logo">
+<ul>
+<li><a herf="">HOME</a></li>
+ <li><a herf="">ABOUT</a></li>
+<li><a herf="">PORTFOLIO</a></li>
+ <li><a herf="">SERVICES</a></li>
+ <li><a herf="">HIRE ME</a></li>
+</ul>
+</nav>
+</div>
+</body>
+</html>
+
